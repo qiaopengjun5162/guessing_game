@@ -1,1 +1,1 @@
-# rust_study
+# 一个Rust写的简单猜数字游戏
